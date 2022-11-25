@@ -1,8 +1,13 @@
-### hey there
+# hey there
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ilmarivikstrom&left_color=green&right_color=red)
 
-Main topics nowadays: **Data Science, ML, MLOps, Azure, Python** 
+## Main topics nowadays: **Data Science, ML, MLOps, Azure, Python** 
 
+### Check out some cool Finnish squash stats I've extracted and visualized (WIP):
+- [The Clublocker app](https://ilmarivikstrom-clublocker-srcapp-8snuhh.streamlit.app/)
+- [The repo itself](https://github.com/ilmarivikstrom/clublocker)
+
+### Connect on LinkedIn
 <a href="https://linkedin.com/in/ilmarivikstrom/">
   <img align="left" alt="Ilmari's LinkedIn 🔗" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
