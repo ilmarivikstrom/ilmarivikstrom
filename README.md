@@ -1,29 +1,13 @@
-# hey there
+# hello there!
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ilmarivikstrom&left_color=green&right_color=red)
 
-## Main topics nowadays: **Data Science, ML, MLOps, Azure, Python** 
+- 🌱 Currently working with: data science, ML, MLOps, Azure, Python
+- 🔭 Check out some cool Finnish squash stats I've extracted and visualized:
+  - [The Clublocker App](https://squashlytics.streamlit.app/)
+  - [The repo itself](https://github.com/ilmarivikstrom/clublocker)
+  - I may update the app at any time without a notice.
 
-### Check out some cool Finnish squash stats I've extracted and visualized (WIP):
-- [The Clublocker app](https://ilmarivikstrom-clublocker-srcapp-8snuhh.streamlit.app/)
-- [The repo itself](https://github.com/ilmarivikstrom/clublocker)
-
-### Connect on LinkedIn
+Connect with me on LI
 <a href="https://linkedin.com/in/ilmarivikstrom/">
   <img align="left" alt="Ilmari's LinkedIn 🔗" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-
-<!--
-**ilmarivikstrom/ilmarivikstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
