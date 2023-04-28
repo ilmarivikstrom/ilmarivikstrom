@@ -1,5 +1,4 @@
 # hello there!
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ilmarivikstrom&left_color=green&right_color=red)
 
 - 🌱 Currently working with: data science, ML, MLOps, Azure, Python
 - 🔭 Check out some cool Finnish squash stats I've extracted and visualized:
